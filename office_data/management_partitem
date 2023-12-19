@@ -1,0 +1,113 @@
+CON-ELE0001	Torch	\N	Torch Light	\N	2	1
+CON-ELE0003	Stater	\N	Stater Philips Brand	\N	2	1
+CON-ELE0004	Tape	\N	PVC tape (electrical)	\N	1	1
+CON-ELE0005	Lock Tie	\N	Lock Tie 243(blue)	\N	2	1
+CON-ELE0007	Cable Tie	\N	Cable Tie 8'  & 12'	\N	2	1
+CON-ELE0008	1Gang	\N	1Gang MK BOX	\N	2	1
+CON-MEC0001	angle1in3mm	\N	Angle Bar 1'x1'x3mm	\N	2	1
+CON-MEC0002	others	\N	Wielding Rod, rebit, nut bolt	\N	2	1
+CON-MEC0003	squareBox@1.5mm	\N	Square Box	\N	2	1
+CON-MEC0004	Net24	\N	Net 24 mesh	\N	2	1
+CON-MEC0005	flatbar3/4in	\N	Flat Bar 3/4 inch 3mm	\N	2	1
+CON-MEC0006	angle1.5in5mm	\N	Angle bar 1.5'x1.5'x5mm	\N	2	1
+FA-AC00001	WSN_RIVERINE 24B 1.5	\N	Walton Split Type Air Conditioner	\N	6	1
+FA-AC00002	WSN_RIVERINE 18A 1.5	\N	Walton Spilt Type Air Conditioner	\N	6	1
+FA-AC00003	frame Walton AC	\N	Installation Frame	\N	2	1
+FA-COM0001	computer	\N	Computer	Processor - Intel, generation - 10th gen, frequency - 3.6GHz (min), Storage 256 SSD, 1TB HDD, Monitor - 21 inch	6	1
+FA-FA00001	Medical Oxygen	\N	MEDICAL OXYGEN CYLINDER (Bullnose Type)	\N	2	1
+MIS-LABOR01	labor@netframe	\N	Labour bill  for net manufacturing	\N	2	1
+MIS-RENT001	House Rent	\N	House Rent	\N	2	1
+SER-ABB0002	Alternator Work	\N	\N	Wartsila Unit#2 Alternator remove from Engine Base and kept in suitable place of Engine Hall and Shift Unit#3 Alternator from Engine Base to Unit#2 Engine Base	3	1
+SER-CAT0001	G3616-CrankShaft	\N	G3616-CrankShaft  one fillet repairing	\N	3	1
+SER-CAT0002	G3616-CrankShaft -2	\N	G3616-CrankShaft runout checking	\N	3	1
+SER-CAT0003	G3616-CrankShaft-3	\N	\N	Transportation of G3616-CrankShaft from ASPP to Dholaikhal bothway.	3	1
+SER-FIRE001	fire_plan Expenditure	\N	\N	Expenditure for Preparation of Technical Report including Emergency Action Plan	3	1
+SER-FIRE002	fire_plan hazard	\N	\N	Expenses for Inspection of premises for risk assessment & hazard mapping	3	1
+SER-FIRE003	fire_plan preparation	\N	\N	Preparation of Fire Safety Plan as per guidelines of Bangladesh Fire Service & Civil Defense authority encompassing Means of Egress, Fire Detection & Protection System, Hazards and Other related details for the whole premises of Summit Power Limited (Ashulia Power Plant, Dhaka)	3	1
+SER-GEN0001	Main Door	\N	10mm Temper Glass Door 7'x6'	\N	2	1
+SER-KATO001	Alternator Work(Cat1)	\N	\N	Cat Alternator 1 remove from base  and a new rewinding alternator fitted to base.	3	1
+SP-ELE0001	old(200AH)	\N	\N	Old Battery 200 AH(old Battery Price Adjustment)	2	1
+SP-ELE0002	MPCB	\N	MPCB 19-25 Amps, Fuji Co. Japan	\N	2	1
+SP-ELE0003	old (120AH)	\N	120AH Old Battery Price adjustment	\N	2	1
+SP-ELE0004	LA21-N120	\N	12V 120A Lucas Advance Battery	\N	2	1
+SP-ELE0005	110VDC Motor	\N	110V 880Watt 22500 RPM(INDIA)	\N	2	1
+SP-FIRE0001	Valve_50kg	\N	Ball Valve for 50kg Bottle	\N	4	1
+SP-FIRE0002	AFFF	\N	AFFF Foam	\N	2	1
+SP-FIRE0003	Co2 hose	\N	CO2 Hose Pipe 6kg	\N	2	1
+SP-FIRE0004	Pipe_Nut_50kg	\N	Hose Pipe Nut for 50 kg bottle	\N	2	1
+SP-FIRE0005	ABC Powder	\N	ABC Powder	\N	2	1
+SP-FIRE0007	Pipe_50kg	\N	Pipe for 50kg Bottle	\N	2	1
+SP-FIRE0009	Valve_25kg	\N	Valve for 25 kg bottle	\N	2	1
+SP-FIRE0010	pipe_6kg	\N	Hose pipe for  6kg bottle	\N	2	1
+SP-FIRE0011	Valve_6kg	\N	Valve for 6 kg bottle	\N	2	1
+SP-FIRE0012	Meter	\N	Meter	\N	2	1
+SP-I100011	4854705	\N	Element Lube	\N	2	1
+SP-I100012	4592591	\N	SWITCH AS-PR 140-9669	\N	2	1
+SP-I100013	7X1043	\N	CONTROL G	\N	2	1
+SP-I100014	1521959	\N	SWITCH AS-PR	\N	2	1
+SP-I100015	EU3-01	\N	Air Filter	\N	2	1
+SP-I100016	N200	\N	12V 29 Plate 200AH Lucus Giga Battery	\N	2	1
+SP-I100017	1059741	\N	ELEMENT AS	\N	1	1
+SP-I100018	52569151	\N	Pendant Switch Set 8 pos.	\N	2	1
+SP-I100019	2434291	\N	SPARK PLUG	\N	2	1
+SP-I100020	9W0532	\N	Control Gp	\N	2	1
+SP-I100021	GS 26089484	\N	Brake Controller (110V, 500 AC, 1A)	\N	2	1
+SP-I100022	VE 26090284	\N	Voltage Relay (150-500V AC, 2A DC)	\N	2	1
+SP-I100023	GF 26094384	\N	\N	Brake Controller (220V-500V AC, 0.250-16 AC, 0.8A DC	2	1
+SP-MEC0001	Air Filter	\N	\N	Ventilation Louver Air Filter (Wartsila Engine Room)	2	1
+SP-MEC0002	PI(0-7kg)	\N	\N	Pressure gauge, Range 0-7 kg, Oil, Dial 100mm, Connection 1/2'  Brand: Wika  Origin: Germany	2	1
+SP-MEC0003	PI(0-20kg)	\N	\N	Pressure gauge, Range 0-20 kg, Oil, Dial 100mm, Connection 1/2'  Brand: Wika  Origin: Germany	2	1
+SP-MEC0004	PI(0-10kg)	\N	\N	Pressure gauge, Range 0-10 kg, Oil, Dial 100mm, Connection 1/2'  Brand: Wika  Origin: Germany	2	1
+CON-ELE0002	timer	\N	Timer 3Y-2 220V omron Japan		2	1
+SER-GEN0002	door repairing	\N	\N	Door (small) repairing service charge with materials	3	1
+SP-CAT0001	WB-6/RB-6	\N	6.75 in x 5.62 in SS Bellows		2	1
+CON-ELE0006	Contact Cleaner	\N	CRC Brand 789		2	1
+SP-FIRE0008	pipe_25kg	\N	Hose pipe for 25kg bottle		2	1
+SP-MEC0006	DN163 EGB	\N	L 6.5' x D 6' 3 ply with flange	\N	2	1
+SP-MEC0007	DN150 EGB	\N	L 6' x D 6.5' 3 ply with flange	\N	2	1
+SP-MEC0008	6310 2Z/C3	\N	Ball Bearing (SKF)	\N	2	1
+SP-MEC0009	6306 2Z/C3	\N	Ball Bearing (SKF)	\N	2	1
+SP-MEC0010	6209 C3	\N	Ball Bearing (SKF)	\N	2	1
+MIS-RENT002	Land Lease		Land Lease		2	1
+SER-TC00001	vtc Rotor		ABB VTC 254-14 Rotor Balancing	Rotor Balancing of ABB VTC 254-14 TC of Cat G3616 Engine	3	1
+SP-FIRE0006	CO2 Gas		CO2 Gas		2	1
+SP-MEC0011	6209 2Z/C3	\N	Ball Bearing (SKF)	\N	2	1
+SP-MEC0012	6205 2Z/C3	\N	Ball Bearing (SKF)	\N	2	1
+SP-MEC0013	6309	\N	Ball Bearing (SKF)	\N	2	1
+SP-MEC0014	7212 BEP	\N	Roller Bearing (SKF)	\N	2	1
+SP-MEC0015	22310 E	\N	Roller Bearing	\N	2	1
+SP-MEC0016	tib	\N	Bellows	\N	2	1
+SP-MEC0017	6308/C3	\N	Ball Bearing	\N	2	1
+SP-MEC0018	SS Sheet	\N	304x1.5mmx4'x8'	\N	2	1
+SP-MEC0019	SS Sheet (rupture)	\N	SS Sheet 1.5mm 4'*8' sheet	\N	2	1
+SP-MEC0020	NU 212 ECP	\N	Roller Bearing (SKF)	\N	2	1
+SP-MEC0021	NU 212 ECP	\N	Roller Bearing (SKF)	\N	2	1
+SP-MEC0022	6306 2RS1	\N	Ball Bearing (SKF)	\N	2	1
+SP-MIS0001	Pump 2.2kW(Pedrollo)	\N	CP220C Pedrollo 2.2kW 3Phase	\N	2	1
+SP-MIS0002	Pump 2.2kW (Foras)	\N	SE310T Foras 2.2kW 3Phase	\N	2	1
+SP-MIS0003	Motorola GP-328	\N	Walkie Talkie Set	\N	2	1
+SP-MEC0005	DN125 EGB	\N	\N	Making bellows of diameter 05 inches and height 4.5 inches with 3 ply sheets,  flanges and inner duct.	2	1
+SER-ABB0001	Alternator Work	\N	\N	Alternator remove from engine base\tAlternator coupling remove form rotor shaft\t Rotor disassemble from alternator\t Transportation cost of Rotor (Good condition)from MDPP/RUPP to ASPP Rotor assemble with alternator\tAlternator coupling assemble with rotor shaft\t Alternator reinstalling with engine base. Transportation cost of Rotor ( Damage) from ASPP to RUPP workshop	3	1
+SER-ABB0003	Alternator Work	\N	\N	1. Unfasten all fastening screw of alternator and its base to remove it from It's base. \r\n2. Unfasten cover (split)  from outer member of coupling.\r\n3. Unfasten outer member of the coupling from engine flywheel (if required).\r\n4. Remove alternator from its base and place in the suitable place as per requirement of plant. \r\n5. Unfasten inner member from rotor shaft.\r\n6. Split / Remove Rotor and Stator . \r\n7. Place rotor to a suitable location for further electrical investigation .   \r\n\r\n8. Fitted back repair rotor inside stator after necessary electrical repair. \r\n9. Fasten inner member with rotor shaft. \r\n10. Place alternator to its base and fitted back all fastening screw of the alternator with its base. \r\n11. Fitted back outer member of the coupling ( if open ).\r\n12. Couple engine and alternator fixing all opened member and cover ( split ). \r\n13. Necessary support to the plant team during alignment works.	3	4
+SER-ABB0004	Alternator Work	\N	\N	1. Unfasten inner member from rotor shaft.\r\n2. Split / Remove Rotor and Stator . \r\n3. Place rotor to a suitable location for further electrical investigation .   \r\n\r\n4. Fitted back repair rotor inside stator after necessary electrical repair. \r\n5. Fasten inner member with rotor shaft. \r\n6. Place alternator to its base and fitted back all fastening screw of the alternator with its base. \r\n7. Fitted back outer member of the coupling ( if open ).\r\n8. Couple engine and alternator fixing all opened member and cover ( split ). \r\n9. Necessary support to the plant team during alignment works.	3	4
+SER-CAT0004	G3616 -Block			Removing Engine Block from engine base, bring it suitable position, removing crankshaft, replacing with other one, back block to its original position & move old shaft to store room.	3	1
+SER-AVK0001	AVK-Alternator		AVK-Alternator Rigging	1. An alternator loaded on a trailer from Rupganj, unloaded at Ashulia plant. 2. transport from RUPP to ASPP 3. Alternator Disassembly and Assembly 4. Alternator removed from engine body 5. Alternator fitting in engine body	3	4
+SER-CW0MCHN	Counterweight Machining		Counterweight Machining work	Crankshaft’s Counter Weight Repairing(Machining)	3	4
+FA-AC00004	WALTON AC 2TON		WSN-KRYSTALINE-24B 2TON		6	1
+SER-PULSE01	Item A		Cleaning & Varnishing of Stator	Item A: Cleaning & Varnishing of Stator	3	4
+SER-PULSE03	Item C		Wedge Replacement (40 slots)	Item C: Wedge Replacement (40 slots)	3	4
+SER-PULSE02	Item B		PD Treatment	Item B: PD Treatment	3	4
+SER-PULSE04	Item D		Lead Cable Replacement	Item D: Lead Cable Replacement	3	4
+SER-PULSE05	Item E		Lead Cable Re-insulation of Stator	Item E: Lead Cable Re-insulation of Stator	3	4
+SER-ABB0007	Alternator Work		Alternator Rotor Replacement work	<ul> \r\n<li> \r\n\r\nMeasurement & Testing of 24 Nos Poles \r\n</li><li>\r\nRemoving all faulty poles the rotor using special tools\r\n</li><li>\r\nDismantling good poles of rotor\r\n</li><li>\r\nReplacing all faulty poles with good poles in Rotor \r\n</li><li>\r\nDiode varister and pole Insulation check\r\n</li><li>\r\nBridging Connection from Pole to Pole \r\n</li><li>\r\nMagnetic Test of Rotor by DC Voltage \r\n</li><li>\r\nReplaced pole insulation and varnishing \r\n</li><li>\r\nAssembled of rest pole(3rdt rotor)\r\n</li><li>\r\nBoth way transportation from Plant to Factory\r\n</li>\r\n</ul>	3	4
+SER-ABB0006	Alternator Work		Alternator Rigging Work	<ul> <li>\r\n\r\nUnfasten all fastening screw of alternator and its base to remove it from It's base. \r\n</li><li>\r\nUnfasten cover (split) from outer member of coupling.\r\n</li><li>\r\nUnfasten outer member of the coupling from engine flywheel (if required).\r\n</li><li>\r\nRemove alternator from its base and place in the suitable place as per requirement of plant.\r\n</li><li>\r\nUnfasten inner member from rotor shaft.\r\n</li><li>\r\nSplit / Remove Rotor and Stator .\r\n</li><li>\r\nPlace rotor to a suitable location for further electrical investigation .\r\n</li><li>\r\nFitted back repair rotor inside stator after necessary electrical repair.\r\n</li><li>\r\nFasten inner member with rotor shaft.\r\n</li><li>\r\nPlace alternator to its base and fitted back all fastening screw of the alternator with its base.\r\n</li><li>\r\nFitted back outer member of the coupling ( if open ).\r\n</li><li>\r\nCouple engine and alternator fixing all opened member and cover ( split ).\r\n</li><li>\r\nNecessary support to the plant team during alignment works.\r\n</li></ul>	3	4
+FA-AC00005	WALTON AC 1TON		WSN-RIVERINE-12FH-1TON		6	1
+CON-MEC0007	MEMBRANE 4040		MEMBRANE 4040	MEMBRANE 4040, Brand: Heron, Country of Origin: Chaina,	5	1
+CON-MEC0008	PP Filter 20"		PP Filter 20"	PP Filter 20"	5	1
+SER-ABB0008	Alternator Work		Alternator Work	An ABB Rotor desmentaling from stator, keeping in suitable place of Engine Hall.	3	4
+SP-MIS0004	Walki Talkie Battery		Walki Talkie Battery Service	SBR Walkie Talkie Battery  Brand: Motocom \r\nModel: MC-700  \r\nChannel Capacity: 16 channels Frequency: 245-246 MHZ  Battery:4500mAh	3	1
+SER-W20V341	Block Rigging		W20V34SG Engine Block Rigging	<p> 1st Step: Old Engine Block jack up to required height, Shifting the block to side way & lower down as required level then dismantle the cooler housing from the block if necessary. Bring old block outside from Engine Hall. Dismetal crankshaft move it to Engine Hall and keep safely. Old block shift to the convenient place in the plant for reservation.\r\n</p> <p>\r\n2nd Step: The New Engine Block Off loading from the Trailer, crankshaft fit with new block and bring block into Engine hall and fix back the cooler housing then Jack up the block up to required height. Then shifting the New Block with Crankshaft to the foundation base & Lower down with doing the final alignment. Fit oil sump with block in suitable position and time. \r\n</p> <p>\r\nNew Block Transportation: Receiving/Loading the New Engine Block on to the Trailer & Transportation from port to Ashulia Plant and unloading at Plant.\r\n</p>	3	4
+SER-RADIAT1	Rigging Work			<p> 2 nos of old Radiator (Wartsila Engine) to be replaced with New Radiators. </p>\r\n<ol> \r\n<li> \r\nUnloading the Radiators from the Trailer at site.\r\n</li><li>\r\nParking our Crane close to the Radiator installation Structure.\r\n</li><li>\r\nLift down the old Radiators one after another with the help of Crane and necessary lifting gear and tackles then keeping those at your convenient places in the plant.\r\n</li><li>\r\nLift up new Radiators from ground to on top of the Structure & Placement their required position.\r\n</li><li>\r\nMobile Crane, Required Spreader Beam, Necessary Tools and Tackles with Skilled Manpower will be provided by us\r\n</li>\r\n</ol>	3	4
+SER-ABB0005	Alternator Work		Alternator Rigging Work	<ul>\r\n<li>\r\nUnfasten inner member from rotor shaft.\r\n</li> <li>\r\nSplit / Remove Rotor and Stator .\r\n</li> <li>\r\nPlace rotor to a suitable location for further electrical investigation .\r\n</li> <li>\r\nFitted back repair rotor inside stator after necessary electrical repair.\r\n</li> <li>\r\nFasten inner member with rotor shaft.\r\n</li> <li>\r\nPlace alternator to its base and fitted back all fastening screw of the alternator with its base.\r\n</li> <li>\r\nFitted back outer member of the coupling ( if open ).\r\n</li> <li>\r\nCouple engine and alternator fixing all opened member and cover ( split ).\r\n</li> <li>\r\nNecessary support to the plant team during alignment works.\r\n</li> </ul>	3	4
+SER-TC00002	NA357 TC Service		Napier  NA357 TC Service	Standard Overhauling of Napier NA357 Turbocharger\r\nDynamic Balancing of TC\r\nRemoving & Installation to Engine	3	4
+SER-WORKSHOP1	Workshop Service			<ul>\r\n<li> 7 Nos  0.5"x8"x36" MS plate cutting  </li>\r\n<li> 28 Nos  0.5"x10"x20" MS plate cutting  </li>\r\n<li> 14 Nos  0.5"x10"x18" MS plate cutting as required triangle shape  </li>\r\n<li> Old support removing by cutting & grinding  </li>\r\n<li> 4" & 6" pipe extend & reduce as required  </li>\r\n<li> Welding, cutting, making hole & grinding all required job including materials & labor charge </li>\r\n\r\n</ul>	3	4

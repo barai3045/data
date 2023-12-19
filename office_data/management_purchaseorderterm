@@ -1,0 +1,175 @@
+1	Warranty		1	6
+2	Delivery of Goods:		1	1
+3	Payment		1	11
+4	VAT & AIT		1	14
+5	Delivery of Goods:		2	1
+6	Warranty		2	6
+7	Payment		2	11
+8	VAT & AIT		2	14
+9	Delivery of Goods:		3	3
+10	Warranty		3	6
+11	Payment		3	11
+12	VAT & AIT		3	14
+13	Delivery of Goods:		4	1
+14	Warranty		4	6
+15	Payment		4	11
+16	VAT & AIT		4	14
+17	Delivery of Goods:		5	1
+18	Warranty		5	6
+19	Payment		5	11
+20	VAT & AIT		5	14
+21	Delivery of Goods:		6	1
+22	Warranty		6	6
+23	Payment		6	11
+24	VAT & AIT		6	14
+25	Delivery of Goods:		7	1
+26	Warranty		7	9
+27	Payment		7	11
+28	VAT & AIT		7	14
+29	Delivery of Goods:		8	1
+30	Warranty		8	6
+31	Payment		8	11
+32	VAT & AIT		8	14
+33	Delivery of Goods:		9	1
+34	Warranty		9	6
+35	Payment		9	11
+36	VAT & AIT		9	14
+37	Payment		10	13
+38	Work Details:	Work Address is mainly Ashulia Power Plant and for the interest of work Madhobdi Power Plant and or Rupganj Power Plant. Work will have to start immediately. Total job compilation time is 7 days. If more time is required then a logical explanation should be given by the contractor.	10	\N
+39	VAT & AIT		10	14
+40	Completion of Work:		11	4
+41	Design Guidlines	Design and Draw a Fire safety Plan as per guidelines of BFSCD authority including approval from them.	11	\N
+42	Payment		11	11
+43	VAT & AIT		11	14
+44	Delivery of Goods:		12	4
+45	Warranty		12	7
+46	Payment		12	11
+47	VAT & AIT		12	14
+48	Delivery of Address	Supplier will deliver this item to Shipping address. Transportation charge will be on supplier's account	12	\N
+49	Delivery of Goods:		13	1
+50	Warranty		13	6
+51	Payment		13	11
+52	VAT & AIT		13	14
+53	Delivery of Goods:		14	1
+54	Warranty		14	9
+55	Payment		14	11
+56	VAT & AIT		14	14
+57	Delivery of Address	Supplier will deliver this item to Shipping address. Transportation charge will be on supplier's account	14	\N
+58	Delivery of Goods:		15	1
+59	Warranty		15	6
+60	Payment		15	11
+61	VAT & AIT		15	14
+62	Delivery of Mode	Our representative will collect goods from Order Address	15	\N
+63	Delivery of Goods:		16	1
+64	Warranty		16	8
+65	Payment		16	11
+66	VAT & AIT		16	14
+67	Work Completion Time		17	2
+68	Warranty		17	10
+69	Payment	BDT 100,000.00 advance, BDT 4,00,000 after completion of work, rest amount after 3 month engine operations.	17	\N
+70	VAT & AIT		17	14
+71	Work Completion Time	Work will have to start immediately. Total job compilation time is maximum 10 days. If more time is required then a logical explanation should be given by the contractor.	18	\N
+72	Warranty		18	5
+73	Payment		18	12
+74	VAT & AIT		18	14
+75	Work Completion Time		19	1
+76	Warranty		19	6
+77	Payment		19	12
+78	VAT & AIT		19	14
+79	Delivery of Goods:		20	2
+80	Warranty		20	7
+81	Payment		20	11
+82	VAT & AIT		20	14
+83	Work Completion Time		21	1
+84	Warranty		21	7
+85	Payment		21	12
+86	VAT & AIT		21	14
+87	Work Location	Alternator loading and transportation will start from RUPP and rest work will be done at ASPP	22	\N
+88	Work Place Safety	Standard guideline for workplace safety mush be complied.	22	\N
+89	Payment	BDT 450,000.00 will be given as advance rest amount will be paid after completion of Work.	22	\N
+90	VAT & AIT		22	14
+91	Work Place & Completion Time	Work Place is Ashulia Power Plant. Completion time is max 10 Days	23	\N
+92	Insulation Registance	Insulation resistance must be increased with respect to initial value.	23	\N
+93	Warranty	Six months of service warranty is applicable for all type of work.	23	\N
+94	Payment		23	12
+95	VAT & AIT		23	14
+96	Work Completion Time		24	1
+97	Warranty		24	10
+98	Payment		24	12
+99	VAT & AIT		24	14
+118	Environment, Health and Safety (EHS)		26	18
+119	Security	Contractors are responsible for the security of the materials they will use for the works under purchase order during works at site and outside of the plant boundary for their materials.	26	\N
+100	Scope of Work	<p>Scope of the work would be as per reference quotations and as describe in work description. </p>	25	\N
+101	Organization and Qualification:	<p> Contractor will be a duly organized and validly existing under the laws of Bangladesh and foreign rule. Contractor has all necessary authority to carry on its business as presently conducted and to enter into and perform its obligations under this work order.</p>	25	\N
+102	Site Inspection	<p>Contractor and Contractor's agents and representatives may visit the site of Summit Ashulia Power Plantt, ASPP and where applicable (if required). During Course of works, owner reserve the right to oversee the process of works (If deemed required).</p>	25	\N
+103	Environment, Health and Safety (EHS)	<p> The Contractor shall: </p>\r\n<ol> \r\n <li> \r\nGive the highest attention to EHS to avoid any injury to any person and damage to any property;\r\n</li> <li>\r\nEnsure that the management of EHS is an integral and visible part of its work planning and execution processes;\r\n</li> <li>\r\nStrive for continuous improvement of its EHS performance\r\n</li> <li>\r\nObtain Owner's Corporate EHS Policy, understand and implement the applicable content of this policy\r\n</li> <li>\r\nFollow all applicable requirements of Owner's Corporate ENS policy\r\n</li> <li>\r\nMonitor and evaluate its safety performance to effectively take such actions as appropriate to rectify or improve its overall safely performance\r\n</li> <li>\r\nEnsure that it complies with all applicable EHS laws and any EHS requirements for the contractor in force from time to time.\r\n</li> <li>\r\nEnsure that in case Owner produces a safety and health documentation for the site (Occupational Safety Plan) and provides \r\n\r\nSupplier with a copy of the Occupational Safety Plan, Supplier shall confirm receipt thereof in writing and comply with the regulations contained therein. The same shall apply to updates of the Occupational Safety Plan which owner may produce as it deems necessary, Supplier shall ensure that its direct and indirect subcontractors employed to perform the Works commit themselves to the Occupational Safety Plan and its updates. The supplier shall commit to this clause to avoid any injury to any persons who are legally on the work site including personnel, Purchaser's personnel and visitors.\r\n</li> <li>\r\nNo child labor whose age below 18 Years are not allowed for the works. \r\n</li>\r\n</ol>	25	\N
+104	Security	<p>Contractors are responsible for the security of the materials they will use for the works under purchase order during works at site and outside of the plant boundary for their materials. </p>	25	\N
+105	Tools & Machineries	<p>The contractor should use quality type machineries and tools for the works. The company has the right to check the standard of the tools / calibration certificate / quality I origin and as appropriate.</p>	25	\N
+106	Retention of Qualified Subcontractors and Suppliers	<p>Contractor may give subcontract any portion of the Work to one or more Subcontractors. In that case the sub-contractors should be the registered company under Bangladesh Government Rule with full logistics support capabilities, experience on similar works. The Main contractor should submit Sub contractor's qualification particulars to the owner on case-to-case basis unless and approval to be taken from Owner. </p> <p>\r\nContractor in foreign are not permitted to engage any sort of subcontractor for supplying works.</p>	25	\N
+107	Reporting	<p>Contractor will report to the owner representatives time to time. Regarding progress of the works to the contact person mentioned in Others (Point of Communication)</p>	25	\N
+108	VAT & AIT		25	14
+109	Extra works	<p> No payment will be paid out of the scope of works as the work is "TURNKEY WORK". </p>	25	\N
+110	Payment	<p> Payment will be made through Account Payee Cheque in the name of Company. </p> <p>\r\nBDT 4,50,000.00 (25% approximately) will be paid with this Purchase Order. Rest payment will be made after submission of bill with work completion certificate.  </p>	25	\N
+111	Duration of the works	<p>Cumulative duration of the total works  is 15 Days ± 5 calendar days. </p>	25	\N
+112	Penalty	<p>Taka 1.5% of total price will be deducted from total amount of payment for each day delay. Maximum penalty will be 10% from total payment for each successive weeks delay after completion of the total works.\r\n</p><p>\r\nIn case of no works reason attribute to "Contractor" no payment will be made and purchase order will be cancel automatically. </p><p>\r\nCompany reserve right to cancel the works reason attribute to contractor or without any reason.</p>	25	\N
+113	Others ( Point of Communication)	<ul> \r\n\r\n<li>  Please call our Summit Power Limited, Ashulia Power Plant team for any sort of communication during work and any sort of communication-\r\n<ol> \r\n<li> Plant Manager, Mr.Santosh Barai, Mob: +8801723000008  </li>\r\n<li>Deputy Plant Manager, Mr. Asaduzzam Nur, Mob: +880 1712 297330   </li> </ol>\r\n</li> \r\n<li>\r\n\r\nFor technical decision of the works-\r\n<ol> \r\n\r\n<li> GM (O&M), Mob: +88-01714-102913  </li>\r\n</ol>\r\n\r\n</li>\r\n\r\n</ul>	25	\N
+114	SCOPE OF WORK	Scope of the work would be as per reference quotations and as describe in work description	26	\N
+115	Organization and Qualification	Contractor will be a duly organized and validly existing under the laws of Bangladesh and foreign rule. Contractor has all necessary authority to carry on its business as presently conducted and to enter into and perform its obligations under this work order.	26	\N
+116	Site Inspection	Contractor and Contractor's agents and representatives may visit the site of Summit Ashulia Power Plant, ASPP and where applicable (if required). During Course of works, owner reserve the right to oversee the process of works (If deemed required).	26	\N
+117	Wittiness of Work	In case of work in contactor area i.e. work shop or any other locations under jurisdiction of contactor, owner representative will be allowed for wittness throughout the work process.	26	\N
+120	Tools & Machineries:	The contractor should use quality type machineries and tools for the works. The company has the right to check the standard of the tools / calibration certificate / quality I origin and as appropriate.	26	\N
+121	Retention of Qualified Subcontractors and Suppliers	Contractor may give subcontract any portion of the Work to one or more Subcontractors. In that case the sub-contractors should be the registered company under Bangladesh Government Rule with full logistics support capabilities, experience on similar works. The Main contractor should submit Sub contractor's qualification particulars to the owner on case-to-case basis unless and approval to be taken from Owner. Contractor in foreign are not permitted to engage any sort of subcontractor for supplying works.	26	\N
+122	Reporting	Contractor will report to the owner representatives time to time. Regarding progress of the works to the contact person mentioned in Others (Point of Communication)	26	\N
+123	VAT & TAX		26	14
+124	Extra Works		26	19
+125	Payment	Payment will be made through Account Payee Cheque in the name of Company. BDT 9,00,000.00 (50% approximately) will be paid with this Purchase Order. Rest payment will be made after submission of bill with work completion certificate.	26	\N
+126	Duration of the works	1st Rotor Completion time is 10 Days from this purchase order date. For 2nd Rotor addtional 7 Days. Total completion date is 17 Days.	26	\N
+127	Warranty	Warranty of Workmanship  i.e, service pole, end connection will be provided for 6 months by Contractor	26	\N
+128	Point of Communication	<ol>\r\n<li> \r\n\r\nPlease call our Summit Power Limited, Ashulia Power Plant team for any sort of communication during work and any sort of communication.\r\n<ol> \r\n<li> \r\nPlant Manager, Mr.Santosh Barai, Mob: +88-01723-000008\r\n</li><li>\r\nDeputy Plant Manager, Mr. Asaduzzam Nur, Mob: +880-1712-297330\r\n</li>\r\n</ol> \r\n</li><li>\r\nFor technical decision of the works\r\n<ol> \r\n<li> \r\nGM (O&M), Mob: +88-01714-102913\r\n</li> <li> \r\nGM (O&M), Mob: +88-01716-511203\r\n</li> \r\n</ol>\r\n</li>\r\n</ol>	26	\N
+129	Others	<ul>\r\n<li>\r\nContactor will provided test certificate of repair materials i.e. nomex paper, other insulation materials to the customer.\r\n</li> <li>\r\nContactor will use and choose End connection materials as per ISO standards guidelines.\r\n\r\n</li> <li>\r\nContactor will use tightening torque as per manufacturer guideline or any other O&M guideline and will share with the customer(us).\r\n\r\n</li> <li>\r\nContactor will provide a repair & restoration materials list for rest(third) rotor to customer.\r\n\r\n</li> \r\n\r\n\r\n</ul>	26	\N
+130	Work Completion Time		27	1
+131	Warranty		27	5
+132	Payment		27	12
+133	VAT & TAX		27	14
+134	SCOPE OF WORK		28	20
+135	Organization and Qualification		28	21
+136	Environment, Health and Safety (EHS):		28	18
+137	Security		28	22
+138	Tools & Machineries		28	23
+139	Reporting		28	24
+140	VAT & TAX		28	14
+141	Extra Works		28	19
+142	Payment		28	12
+143	Point of Communication	<ol>\r\n<li> \r\n\r\nPlease call our Summit Power Limited, Ashulia Power Plant team for any sort of communication during work and any sort of communication.\r\n<ol> \r\n<li> \r\nPlant Manager, Mr.Santosh Barai, Mob: +88-01723-000008\r\n</li><li>\r\nDeputy Plant Manager, Mr. Asaduzzam Nur, Mob: +880-1712-297330\r\n</li>\r\n</ol> \r\n</li><li>\r\nFor technical decision of the works\r\n<ol> \r\n<li> \r\nGM (O&M), Mob: +88-01714-102913\r\n</li> \r\n</ol>\r\n</li>\r\n</ol>	28	\N
+144	Delivery of goods		29	1
+145	Warranty		29	6
+146	Payment		29	11
+147	VAT & TAX		29	14
+148	Duration of Work		30	1
+149	Service Warranty		30	6
+150	Payment		30	12
+151	VAT & TAX		30	14
+152	Duration of Work Completion		31	1
+153	Service Warranty		31	6
+154	Payment		31	12
+155	VAT & TAX		31	14
+156	Scope of Work		32	20
+157	Organization and Qualification		32	21
+158	Environment, Health and Safety (EHS)		32	18
+159	Duration of Completion of Work:		32	2
+160	Service Warranty		32	25
+175	Extra Works		33	19
+163	Tools & Machineries		32	23
+161	Payment		32	12
+162	VAT & TAX		32	14
+164	Security		32	22
+165	Extra Works		32	19
+166	Scope of Work		33	20
+167	Organization and Qualification		33	21
+168	Environment, Health and Safety (EHS)		33	18
+169	Duration of Completion of Work		33	2
+170	Service Warranty		33	5
+171	Payment		33	12
+172	VAT & TAX		33	14
+173	Tools & Machineries		33	23
+174	Security		33	22

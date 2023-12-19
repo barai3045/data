@@ -1,0 +1,25 @@
+15	Our representative will collect goods from Order Address	\N
+16	Supplier will deliver this item to Shipping address. Transportation charge will be on supplier's account	\N
+7	1 year from order date	Warranty
+14	VAT & AIT will be deducted as per government policy	VAT & AIT
+1	Within 7 days from this order date.	Work Completion or Supply Duration
+4	Within 30 days from this order date.	Work Completion or Supply Duration
+3	Within 15 days from this order date.	Work Completion or Supply Duration
+2	Within 10 days from this order date.	Work Completion or Supply Duration
+8	1.5 Years from the date of delivery.	Warranty
+12	100% Payment will be made through account payee cheque in the name of Company after completion of Work.	Payment
+13	50% payment will be given as advance as early as possible. Rest Payment will be paid upon submission of Original Bill after successful completion of Work . All payment will be made through account pay	Payment
+11	100% Payment will be made through account payee cheque in the name of Company after delivery of goods	Payment
+9	2 Years from the date of delivery.	Warranty
+6	6 (six months) from delivery of goods	Warranty
+10	3 (three) Months from work completion date	Warranty
+17	At site, during delivery	Delivery
+5	Not Applicable	Warranty
+18	<p> The Contractor shall: </p>\r\n\r\n<ol> \r\n<li> \r\n\r\nGive the highest attention to EHS to avoid any injury to any person and damage to any property;\r\n</li> <li>\r\nEnsure that the management of EHS is an integral and visible part of its work planning and execution processes;\r\n</li> <li>\r\nStrive for continuous improvement of its EHS performance\r\n</li> <li>\r\nObtain Owner's Corporate EHS Policy, understand and implement the applicable content of this policy\r\n</li> <li>\r\nFollow all applicable requirements of Owner's Corporate EMS policy\r\n</li> <li>\r\nMonitor and evaluate its safety performance to effectively take such actions as appropriate to rectify or improve its overall safely performance\r\n</li> <li>\r\nEnsure that it complies with all applicable EHS laws and any EHS requirements for the contractor in force from time to time.\r\n</li> <li>\r\nEnsure that in case Owner produces a safety and health documentation for the site (Occupational Safety Plan) and provides Supplier with a copy of the Occupational Safety Plan, Supplier shall confirm receipt thereof in writing and comply with the regulations contained therein. The same shall apply to updates of the Occupational Safety Plan which owner may produce as it deems necessary, Supplier shall ensure that its direct and indirect subcontractors employed to perform the Works commit themselves to the Occupational Safety Plan and its updates. The supplier shall commit to this clause to avoid any injury to any persons who are legally on the work site including personnel, Purchaser's personnel and visitors.\r\n</li> <li>\r\nNo child labor whose age below 18 Years are not allowed for the works.\r\n\r\n</li>\r\n</ol>	Environment, Health and Safety (EHS)
+21	Contractor will be a duly organized and validly existing under the laws of Bangladesh and foreign rule. Contractor has all necessary authority to carry on its business as presently conducted and to enter into and perform its obligations under this work order.	Organization and Qualification
+22	Contractors are responsible for the security of the materials they will use for the works under purchase order during works at site and outside of the plant boundary for their materials.	Security
+23	The contractor should use quality type machineries and tools for the works. The company has the right to check the standard of the tools / calibration certificate / quality I origin and as appropriate	Tools & Machineries
+24	Contractor will report to the owner representatives time to time. Regarding progress of the works to the contact person mentioned in Others (Point of Communication)	Reporting
+19	No payment will be paid out of the scope of works as the work is "TURNKEY WORK"	Extra Works
+20	Scope of the work would be as per reference quotations and as describe in work description	Scope of work
+25	6 (Six) months from date of completion of work	Warranty
