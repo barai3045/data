@@ -1,0 +1,58 @@
+18	2023-11-17	t	t	f	f	96k Sch Maint TC Maint.	1	8
+19	2023-11-17	t	t	f	f	96k Sch Maint TC Maint.	9	8
+20	2023-11-17	t	t	f	f	96k Sch Maint TC Maint.	5	8
+21	2023-11-17	t	t	f	f	96k Sch Maint TC Maint.	8	8
+16	2023-11-23	f	t	f	f	96k maintenance	10	10
+22	2023-11-24	f	t	f	f	radiator maint.	11	10
+23	2023-11-24	f	t	f	f	radiator maint.	12	10
+17	2023-11-23	f	t	f	f	radiator maint.	11	10
+14	2023-11-16	f	f	f	f	96k Sch Maint	1	7
+8	2023-11-16	f	t	f	f	96k Sch Maint TC Maint.	1	7
+24	2023-11-25	f	t	f	f	Radiotor work	11	11
+25	2023-11-25	f	t	f	f	Radiotor work	12	11
+26	2023-11-28	t	f	f	f	BV Audit	13	11
+1	2023-11-10	t	t	f	f	TC Maintenance	1	5
+2	2023-11-10	t	t	f	f	TC Maintenance	2	5
+3	2023-11-10	t	t	f	f	TC Maintenance	3	5
+4	2023-11-10	t	t	t	f	TC Maintenance	4	5
+5	2023-11-10	t	t	f	f	TC Maintenance	5	5
+27	2023-11-28	t	f	f	f	BV Audit	14	11
+6	2023-11-08	f	t	f	f	--	6	4
+7	2023-11-08	f	t	f	f	--	7	4
+28	2023-11-25	f	t	f	f	Plant visit	15	11
+29	2023-12-03	f	t	f	f	Rediotor work	10	12
+30	2023-12-03	f	t	f	f	Radiotor work	11	12
+31	2023-12-03	f	t	f	f	Radiotor work	12	12
+32	2023-12-03	f	t	f	f	Radiotor work	16	12
+33	2023-12-01	f	t	f	f	Rediotor work	11	12
+34	2023-12-01	f	t	f	f	Radiotor work	12	12
+35	2023-11-30	f	t	f	f	Radiotor work	10	12
+37	2023-12-04	f	t	f	f	Radiotor work	11	12
+38	2023-12-04	f	t	f	f	Radiotor work	12	12
+41	2023-11-30	f	t	f	f	Radiotor work	17	12
+42	2023-12-03	f	t	f	f	Radiotor work	17	12
+43	2023-12-04	f	t	f	f	Radiotor work	17	12
+36	2023-12-04	f	t	f	f	Radiotor work	18	12
+44	2023-12-04	f	t	f	f	Radiotor work	19	12
+45	2023-12-05	f	t	f	f	Radiotor work	11	12
+15	2023-11-16	f	t	f	f	96k Sch Maint	5	7
+12	2023-11-16	f	t	f	f	96k Sch Maint	9	7
+13	2023-11-16	f	t	f	f	96k Sch Maint	8	7
+11	2023-11-16	f	f	f	f	96k Sch Maint TC Maint.	3	7
+10	2023-11-16	f	f	f	f	96k Sch Maint TC Maint.	3	7
+9	2023-11-16	f	f	f	f	96k Sch Maint TC Maint.	2	7
+46	2023-12-05	f	t	f	f	Radiotor work	12	12
+47	2023-12-05	f	t	f	f	Radiotor work	16	12
+48	2023-12-06	f	t	f	f	Radiotor work	11	12
+49	2023-12-06	f	t	f	f	Radiotor work	12	12
+50	2023-12-06	f	t	f	f	Radiotor work	16	12
+51	2023-12-07	f	t	f	f	Radiotor work	11	12
+52	2023-12-07	f	t	f	f	Radiotor work	12	12
+53	2023-12-07	f	t	f	f	Compressor gas R-22 Refill Of Drayer & Leakage checked.	20	12
+39	2023-12-07	f	t	f	f	Compressor gas R-22 Refill Of Drayer & Leakage checked.	21	12
+40	2023-12-05	t	f	f	f	Face Scanner Installation	22	12
+54	2023-12-10	f	t	f	f	A/C maintenance	20	12
+55	2023-12-10	f	t	f	f	A/C maintenance	21	12
+56	2023-12-12	f	t	f	f	CAT  Plant Alternator Visit	23	13
+57	2023-12-12	f	t	f	f	CAT  Plant Alternator Visit	24	13
+58	2023-12-12	f	t	f	f	CAT  Plant Alternator Visit	25	13
